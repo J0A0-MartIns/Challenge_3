@@ -42,7 +42,7 @@ The project aims to create an API to manage posts and related information.
 ## How to Run the Project
 
 1. Make sure you have the JDK (Java Development Kit) and Maven installed.
-2. Clone this repository: `git clone <REPO_URL>`
+2. Clone this repository: `git clone <RepositoryURL>`
 3. Navigate to the project directory: `cd directory-name`
 4. Run the project using Maven: `mvn spring-boot:run`
 
