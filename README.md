@@ -48,11 +48,16 @@ The project aims to create an API to manage posts and related information.
 
 ## Endpoints
 
-- `POST /posts/{postId}` - Process a new post.
+- `POST /posts/{postId}/process` - Process a new post.
 - `DELETE /posts/{postId}` - Disable a post.
 - `PUT /posts/{postId}` - Reprocess a post.
 - `POST /posts` - Create a new post.
 - `GET /posts` - Get the list of posts.
+- `POST /posts` - Create a post.
+      {
+      "title": "Título de exemplo",
+      "body": "Exemplo"
+       }
 
 ## Author
 João Marcos de Araújo Martins
