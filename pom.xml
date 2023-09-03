@@ -8,8 +8,8 @@
 		<version>3.1.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.desafio3</groupId>
-	<artifactId>Desafio3</artifactId>
+	<groupId>br.com.compass</groupId>
+	<artifactId>Challenge_3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Desafio3</name>
 	<description>Desafio 3 do projeto de bolsas da Compasso.</description>
